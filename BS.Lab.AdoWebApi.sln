@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BS.Lab.AdoWebApi", "BS.Lab.AdoWebApi\BS.Lab.AdoWebApi.csproj", "{C253918E-7E0F-4988-A7AF-76B95621C0C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BS.Lab.AdoWebApi.Domain", "BS.Lab.AdoWebApi.Domain\BS.Lab.AdoWebApi.Domain.csproj", "{D904F0DD-0E23-4DA9-BCC1-583E60B89960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C253918E-7E0F-4988-A7AF-76B95621C0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C253918E-7E0F-4988-A7AF-76B95621C0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C253918E-7E0F-4988-A7AF-76B95621C0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C253918E-7E0F-4988-A7AF-76B95621C0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D904F0DD-0E23-4DA9-BCC1-583E60B89960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D904F0DD-0E23-4DA9-BCC1-583E60B89960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D904F0DD-0E23-4DA9-BCC1-583E60B89960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D904F0DD-0E23-4DA9-BCC1-583E60B89960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9104853-D87A-414A-9747-C2B3615F9FBE}
+	EndGlobalSection
+EndGlobal
